@@ -11,7 +11,7 @@ NoteFlow is a modern, beautiful note-taking application with gradient color them
 - ☁️ Firebase synchronization when online
 - 🔍 Search functionality
 - 📌 Pin important notes
-- 🌙 Dark mode support
+
 
 ## Privacy Policy
 
@@ -26,4 +26,4 @@ Please read our [Privacy Policy](PRIVACY_POLICY.md) to understand how we collect
 - **MVVM Architecture** - Clean separation of concerns
 - **Navigation Component** - Screen navigation
 
-// ... existing code ...
+
